@@ -32,3 +32,13 @@ Capture and Analyze Network Traffic Using Wireshark.
 
 
 #### Step 7. Export the capture as a .pcap file
+https://github.com/Snehal3023/Task-5-Wireshark/blob/main/Capature.pcapng
+
+#### Step 8: Summary
+I captured HTTP, DNS, and TCP traffic.
+
+DNS packets show domain lookups.
+
+HTTP shows web page request data.
+
+TCP shows connection establishment using SYN, ACK packets.
