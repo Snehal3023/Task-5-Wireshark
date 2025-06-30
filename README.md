@@ -29,3 +29,6 @@ Capture and Analyze Network Traffic Using Wireshark.
 5. MDNS
 6. SSDP
 7. NBNS
+
+
+#### Step 7. Export the capture as a .pcap file
